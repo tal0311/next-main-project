@@ -1,7 +1,6 @@
 import React from 'react'
 import MainNavigation from '../components/layout/MainNavigation'
 import MeetupList from '../components/meetups/MeetupList'
-import Layout from './../components/layout/Layout'
 
 const DUMMY_MEETUP = [
   {
