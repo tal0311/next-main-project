@@ -20,8 +20,17 @@ const DUMMY_MEETUP = [
     desc: 'this ais a first meet up!',
   },
 ]
-function HomePage() {
-  return <MeetupList meetups={DUMMY_MEETUP} />
+function HomePage({ meetups }) {
+  return <MeetupList meetups={meetups} />
 }
 
+// return props for the compnent
+export const getStaticProps = async () => {
+  // fetch data from api
+  return {
+    props: {
+      meetups: DUMMY_MEETUP,
+    },
+  }
+}
 export default HomePage
