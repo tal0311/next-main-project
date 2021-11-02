@@ -24,13 +24,14 @@ function HomePage({ meetups }) {
   return <MeetupList meetups={meetups} />
 }
 
-// return props for the compnent
+// return props for the component
 export const getStaticProps = async () => {
   // fetch data from api
   return {
     props: {
       meetups: DUMMY_MEETUP,
     },
+    revalidate: 10,
   }
 }
 export default HomePage
