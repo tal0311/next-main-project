@@ -1,3 +1,30 @@
+#Meet up israel
+The app allows the user to create meetings in any area in the country.
+The project enables work with a database and the use of two main operations:
+CREATE
+READ
+
+##Technologies in use
+In building the project I used Next.js for the front end and using Mongodb for the back end.
+
+##Link to project site
+https://israel-meetups.vercel.app/
+
+##My social media
+Teeitwr: https://twitter.com/talAmit82
+Linkedin: www.linkedin.com/in/tal-amit-developer
+
+
+
+
+
+
+
+
+
+
+#next.js info
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
