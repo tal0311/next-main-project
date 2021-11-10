@@ -13,5 +13,6 @@ In building the project I used Next.js for the front end and Mongodb for the bac
 ### https://israel-meetups.vercel.app/
 
 ## My social media
-### Teeitwr: https://twitter.com/talAmit82
+
+### Twitter: https://twitter.com/talAmit82
 ### Linkedin: www.linkedin.com/in/tal-amit-developer
