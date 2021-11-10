@@ -2,8 +2,8 @@
 ## Meetup-israel
 The app allows the user to create meetings in any area in the country.
 The project enables work with a database and the use of two main operations:
-CREATE
-READ
+1. CREATE
+2. READ
 
 ## How to run the app
 1. Clone the code to your machineץ
