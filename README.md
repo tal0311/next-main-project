@@ -1,10 +1,17 @@
 # About this project
 ## Meetup-israel
-
 The app allows the user to create meetings in any area in the country.
 The project enables work with a database and the use of two main operations:
 CREATE
 READ
+
+## How to run the app
+1. clone the code to your machineץ
+2. instal dependencies with 'npm i'
+
+## How to use the app
+on the main page you can view all upcoming meetups
+on the create new meet up page you can create your own meet up
 
 ## Technologies in use
 In building the project I used Next.js for the front end and Mongodb for the back end.
