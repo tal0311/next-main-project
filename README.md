@@ -6,8 +6,8 @@ CREATE
 READ
 
 ## How to run the app
-1. clone the code to your machineץ
-2. instal dependencies with 'npm i'
+1. Clone the code to your machineץ
+2. Install dependencies with 'npm i'
 
 ## How to use the app
 On the main page you can view all upcoming meetups
