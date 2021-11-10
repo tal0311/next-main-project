@@ -23,3 +23,10 @@ In building the project I used Next.js for the front end and Mongodb for the bac
 
 ### Twitter: https://twitter.com/talAmit82
 ### Linkedin: www.linkedin.com/in/tal-amit-developer
+
+## App screenShots
+
+https://github.com/tal0311/next-main-project/blob/master/pictures/Screenshot%202021-11-10%20111758.png
+
+https://github.com/tal0311/next-main-project/blob/master/pictures/Screenshot%202021-11-10%20111922.png
+
