@@ -10,8 +10,8 @@ READ
 2. instal dependencies with 'npm i'
 
 ## How to use the app
-on the main page you can view all upcoming meetups
-on the create new meet up page you can create your own meet up
+On the main page you can view all upcoming meetups
+On the add new meet up page you can create your own meet up
 
 ## Technologies in use
 In building the project I used Next.js for the front end and Mongodb for the back end.
